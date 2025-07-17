@@ -58,13 +58,6 @@ function Home() {
         <p className="text-black font-semibold">Popular Movies</p>
     </div>
     </section>
-
-      {/* Texto pequeño debajo */}
-      <section className="bg-white px-6 pb-8 flex justify-center gap-48 text-black font-semibold">
-        <p>Popular Series</p>
-        <p>Popular Movies</p>
-      </section>
-
       {/* Footer */}
       <footer className="bg-gray-900 text-gray-300 px-6 pt-6 pb-2 flex flex-col gap-4">
         {/* Links con separadores */}
